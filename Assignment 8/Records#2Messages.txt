@@ -1,0 +1,5 @@
+**************************************************
+* Number of Stored  Students: 7
+* Number of Ignored Students: 0
+* System messages are stored in Records#2Messages.txt
+**************************************************

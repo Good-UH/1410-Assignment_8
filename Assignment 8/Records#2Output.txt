@@ -1,0 +1,7 @@
+6
+	1. 232	77	Ghosh, Ushasi
+	2. 234	85	Islam, Tarikul
+	3. 832	89	Pisheh, Zahra
+	4. 102	92	Wei, Li
+	5. 920	91	Yotov, Stanislav
+	6. 302	10	Haberdar, Hakan
